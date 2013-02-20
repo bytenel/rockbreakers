@@ -1,0 +1,1 @@
+{"text"=>"Watching Romeo Must Die..", "geo"=>#<Twitter::Geo::Point:0x89b2e88 @attrs={:coordinates=>[33.44040456, -88.86833696]}>, "id"=>303980860795920384}
