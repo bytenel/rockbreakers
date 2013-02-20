@@ -1,3 +1,4 @@
+#should stream everything correctly
 require 'tweetstream' 
 TweetStream.configure do |config|
     config.consumer_key = '0XrIktKc0F61T1ZCc8ZB9A'
